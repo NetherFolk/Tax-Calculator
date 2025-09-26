@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tax Calculator</string>
+    <string name="underlined_text"><u>Receipt</u></string>
 </resources>
